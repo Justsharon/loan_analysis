@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+data/raw/*
+data/analytics/*.parquet
+db/
