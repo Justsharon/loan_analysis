@@ -6,6 +6,12 @@
 
 ---
 
+## Dashboard Preview
+
+![Executive Summary](images/loan data analysis_page-0001.jpg)
+
+---
+
 ## Portfolio Vital Signs
 
 | Metric | Value | Signal |
