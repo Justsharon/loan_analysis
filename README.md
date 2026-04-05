@@ -5,10 +5,9 @@
 **Classification:** Executive Confidential
 
 ---
-
 ## Dashboard Preview
 
-![Executive Summary](images/loan data analysis_page-0001.jpg)
+![Executive Summary](images/loan_data_analysis_page-0001.jpg)
 
 ---
 
